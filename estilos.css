@@ -12,7 +12,7 @@ body{
     background: #EBE3D5;
 }
 .bg-vino {
-    background-color: #571b3c;
+    background-color: #394651;
     color: white;
     text-align: center;
 }
@@ -193,4 +193,13 @@ body{
 .texttocenter{
     text-align: justify!important;
     margin-right: 25px;
+}
+
+.in-flex{
+    flex: 1;
+    padding: 25px;
+}
+.bg-card{
+    background-color: #251124;
+    color: white;
 }
